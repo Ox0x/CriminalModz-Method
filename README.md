@@ -8,4 +8,14 @@ Theoretically this can also be done on Xbox One, you can also bypass the Rocksta
 The video link:
 https://youtu.be/iik25wqIuFo
 
+If you can get hold of the .json file and have a brain, there is a way you can duplicate your whole character to any console/pc you want. If you find a way please let me know 
+
+
+
+<img width="249" alt="crim,json,lol" src="https://user-images.githubusercontent.com/111647071/185759121-f356ee90-ea21-4384-b7a0-160441ca1a64.png">
+
+Something similar to this will show once all steps are done
+
+
+
 
